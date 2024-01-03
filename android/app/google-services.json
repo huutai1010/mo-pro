@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1043472852661",
+    "project_id": "capstoneetravel-d42ad",
+    "storage_bucket": "capstoneetravel-d42ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043472852661:android:3e2af1865b6f1e35cf80fc",
+        "android_client_info": {
+          "package_name": "com.example.etravel_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043472852661-bn9id6sdhi5km4se8ro46e3et7bdpp0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqAOJe3i4JFFcVuAeRoUTh3-sxw5EaVcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043472852661-bn9id6sdhi5km4se8ro46e3et7bdpp0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043472852661-8et7brqg2bcon7q7fb0jscqv7i82ouh4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.etravel.mobilePortal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
